@@ -116,6 +116,7 @@
 
     &:disabled {
       cursor: default;
+      opacity: .7;
     }
 
     &.playButton {
